@@ -1,0 +1,18 @@
+name: WesternJobs
+main: Luxielx.Main.Main
+version: 1
+api-version: 1.17
+softdepend: [PlaceholderAPI,LuckPerms]
+commands:
+    ban:
+        description: Such Wow , much Wow
+    tempban:
+        description: Such Wow , much Wow
+    unban:
+        description: Such Wow , much Wow
+    appoint:
+        description: Such Wow , much Wow
+    wcjobs:
+        description: Such Wow , much Wow
+    quitjob:
+        description: Such Wow , much Wow
